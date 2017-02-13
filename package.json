@@ -1,0 +1,31 @@
+{
+  "name": "whily",
+  "version": "0.1.0",
+  "description": "asyncronously while, do-while and for loops module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimalek71/whily.git"
+  },
+  "keywords": [
+    "whily",
+    "async-while",
+    "while",
+    "do-while",
+    "for",
+    "promised-while",
+    "promised-for",
+    "promised-do-while",
+    "async-do-while",
+    "async-for"
+  ],
+  "author": "Ali Malek <ali.malek.71@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alimalek71/whily/issues"
+  },
+  "homepage": "https://github.com/alimalek71/whily#readme"
+}
