@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/alimalek71/whily/issues"
   },
-  "homepage": "https://github.com/alimalek71/whily#readme"
+  "homepage": "https://github.com/alimalek71/whily#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7"
+  }
 }
