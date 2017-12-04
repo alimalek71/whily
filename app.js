@@ -1,7 +1,7 @@
 var bluebirdPromise = require('bluebird')
 
 var promiseWhile = function (condition, action) {
-    var resolver = bluebirdPromise.defer();
+    var resolver = new bluebirdPromise.defer();
 
     var loop = function () {
         if (!condition()) return resolver.resolve();
